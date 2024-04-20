@@ -59,6 +59,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - Nitin Kumar Tiwari
 
-Project Link: [https://github.com/yourusername/music-player/music-player-master](https://github.com/NitinKumar1209/music-player/music-player-master)
+Project Link: [https://github.com/yourusername/music-player-master](https://github.com/NitinKumar1209/music-player-master)
 
 We hope you enjoy using this music player as much as we enjoyed building it! For any questions, suggestions, or issues, please contact us through the provided channels. Happy listening!
